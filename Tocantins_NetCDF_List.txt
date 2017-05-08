@@ -1,1 +1,0 @@
-Virtual Stations with generated NetCDFs2 Virtual Stations identified for Jason-2, 2 written to NetCDF9 Virtual Stations identified for Envisat, 8 written to NetCDFTocantins_Jason2_0,Tocantins_Jason2_1,Tocantins_Envisat_0,Tocantins_Envisat_1,Tocantins_Envisat_2,Tocantins_Envisat_3,Tocantins_Envisat_4,Tocantins_Envisat_5,Tocantins_Envisat_6,Tocantins_Envisat_8,
