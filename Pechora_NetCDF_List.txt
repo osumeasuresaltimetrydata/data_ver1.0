@@ -1,1 +1,0 @@
-Virtual Stations with generated NetCDFs22 Virtual Stations identified for Jason-2, 0 written to NetCDF32 Virtual Stations identified for Envisat, 8 written to NetCDFPechora_Envisat_0,Pechora_Envisat_1,Pechora_Envisat_3,Pechora_Envisat_5,Pechora_Envisat_6,Pechora_Envisat_8,Pechora_Envisat_10,Pechora_Envisat_11,
