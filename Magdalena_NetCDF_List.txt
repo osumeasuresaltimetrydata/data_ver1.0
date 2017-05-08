@@ -1,0 +1,1 @@
+Virtual Stations with generated NetCDFs1 Virtual Stations identified for Jason-2, 1 written to NetCDF2 Virtual Stations identified for Envisat, 2 written to NetCDFMagdalena_Jason2_0,Magdalena_Envisat_0,Magdalena_Envisat_1,
